@@ -8,6 +8,7 @@ nav {
 }
 .buy-button {
     background: white;
+    gap: 5px;
     padding: 50px;
 }
 body {
