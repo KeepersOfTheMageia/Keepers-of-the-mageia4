@@ -4,6 +4,10 @@ h1 {
 nav {
     background: black;
 }
+.buy-button {
+    background: white;
+    padding: 10px;
+}
 body {
     margin: 0;
     min-height: 100vh;
