@@ -12,6 +12,7 @@ nav {
     background: orange;
     padding: 10px;
     border-radius: 5px
+    font-weight: 700;
 }
 .logo {
     color: orange;
