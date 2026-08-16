@@ -18,6 +18,13 @@ nav {
 .navlinks {
     display: flex;
 }
+.navlinks a {
+    color:white;
+    text-decoration: none;
+}
+.navlinks a:hover {
+    color: yellow;
+}
 body {
     margin: 0;
     min-height: 100vh;
