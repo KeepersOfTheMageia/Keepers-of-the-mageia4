@@ -6,7 +6,7 @@ nav {
     display: flex;
     gap: 50px;
     justify-content: space-between;
-    padding: 15px;
+    padding: 10px;
 }
 .buy-button {
     background: white;
@@ -19,7 +19,7 @@ nav {
     display: flex;
 }
 .navlinks a {
-    color:white;
+    color: orange;
     text-decoration: none;
 }
 .navlinks a:hover {
