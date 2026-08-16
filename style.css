@@ -4,11 +4,10 @@ h1 {
 nav {
     background: black;
     display: flex;
-    gap: 5px
+    gap: 50px
 }
 .buy-button {
     background: white;
-    gap: 5px;
     padding: 10px;
 }
 body {
