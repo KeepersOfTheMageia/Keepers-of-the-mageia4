@@ -6,6 +6,7 @@ nav {
     display: flex;
     gap: 50px;
     justify-content: space-between;
+    padding: 15px;
 }
 .buy-button {
     background: white;
