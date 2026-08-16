@@ -9,7 +9,7 @@ nav {
     padding: 10px;
 }
 .buy-button {
-    background: white;
+    background: orange;
     padding: 10px;
 }
 .logo {
@@ -19,7 +19,7 @@ nav {
     display: flex;
 }
 .navlinks a {
-    color: orange;
+    color: white;
     text-decoration: none;
 }
 .navlinks a:hover {
