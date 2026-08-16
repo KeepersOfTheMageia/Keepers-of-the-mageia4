@@ -3,6 +3,7 @@ h1 {
 }
 nav {
     background: black;
+    display: flex;
 }
 .buy-button {
     background: white;
