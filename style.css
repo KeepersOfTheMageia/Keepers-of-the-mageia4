@@ -4,7 +4,8 @@ h1 {
 nav {
     background: black;
     display: flex;
-    gap: 50px
+    gap: 50px;
+    justify-content: space-between;
 }
 .buy-button {
     background: white;
