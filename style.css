@@ -12,6 +12,7 @@ nav {
     background: orange;
     padding: 10px;
     border-radius: 50px
+    transition: 0.3s;
 
 }
 .logo {
