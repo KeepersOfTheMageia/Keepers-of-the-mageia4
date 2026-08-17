@@ -6,8 +6,8 @@ nav {
     display: flex;
     gap: 100px;
     justify-content: space-between;
-    padding: 40px;
-    align-items: flex-start;
+    padding: 10px;
+    align-items: center;
 }
 .nav-button {
     background: orange;
