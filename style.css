@@ -22,7 +22,7 @@ nav {
 }
 .navlinks {
     display: flex;
-    gap: 10px;
+    gap: 5px;
 }
 .navlinks a {
     color: white;
