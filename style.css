@@ -38,7 +38,7 @@ nav {
     border-radius: 360px;
     transition: 1s;
 }
-.rule-button: hover {
+.rule-button:hover {
     background: green;
 }
     
