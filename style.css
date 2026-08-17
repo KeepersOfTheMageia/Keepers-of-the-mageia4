@@ -41,6 +41,9 @@ nav {
 .rule-button:hover {
     background: green;
 }
+.shop-button {
+    transition: 2s;
+}
     
 body {
     margin: 0;
