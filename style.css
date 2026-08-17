@@ -11,7 +11,7 @@ nav {
 .nav-button {
     background: orange;
     padding: 10px;
-    border-radius: 50px
+    border-radius: 50px;
     transition: 0.3s;
 
 }
@@ -31,6 +31,12 @@ nav {
 }
 .nav-button:hover {
     background: lightgray;
+}
+.rule-button {
+    background: red;
+    padding: 10px;
+    border-radius: 360px;
+    transition: 1s;
 }
 body {
     margin: 0;
