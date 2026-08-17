@@ -7,7 +7,7 @@ nav {
     gap: 100px;
     justify-content: space-between;
     padding: 40px;
-    align-items: center;
+    align-items: flex-start;
 }
 .nav-button {
     background: orange;
