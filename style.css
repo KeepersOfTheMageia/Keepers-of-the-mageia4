@@ -54,3 +54,10 @@ body {
     min-height: 100vh;
     background: linear-gradient(red, blue);
 }
+@media (max-width: 600px) {
+
+    .logo {
+        font-size: 18px;
+    }
+
+}
