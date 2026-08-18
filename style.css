@@ -58,6 +58,10 @@ body {
     padding: 80px 20px;
     text-align: center;
 }
+.hero p {
+    font-size: 18px;
+    line-height: 1;
+}
 @media (max-width: 600px) {
 
     .logo {
