@@ -62,5 +62,8 @@ body {
     nav {
         flex-direction: column;
     }
+    .nav-links {
+        flex-direction: column;
+    }
 
 }
