@@ -54,6 +54,8 @@ body {
     min-height: 100vh;
     background: linear-gradient(red, blue);
 }
+.hero {
+}
 @media (max-width: 600px) {
 
     .logo {
