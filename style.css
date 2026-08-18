@@ -41,6 +41,8 @@ nav {
     border-radius: 360px;
     transition: 1s;
     text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
 }
 .rule-button:hover {
     background: green;
