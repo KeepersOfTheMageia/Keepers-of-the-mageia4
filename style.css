@@ -55,6 +55,8 @@ body {
     background: linear-gradient(red, blue);
 }
 .hero {
+    padding: 80px 20px;
+    text-align: center;
 }
 @media (max-width: 600px) {
 
