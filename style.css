@@ -43,6 +43,7 @@ nav {
     text-decoration: none;
     display: inline-block;
     margin-top: 20px;
+    border: 2px solid black;
 }
 .rule-button:hover {
     background: green;
@@ -63,6 +64,7 @@ body {
 .hero p {
     font-size: 18px;
     line-height: 1;
+    max-width: 700px;
 }
 @media (max-width: 600px) {
 
