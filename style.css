@@ -70,6 +70,7 @@ body {
 .about {
     padding: 60px 20px;
     margin: 0 auto;
+    text-align: center;
 }
 .about h2 {
     text-align: center;
