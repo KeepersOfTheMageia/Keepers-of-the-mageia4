@@ -86,6 +86,9 @@ main {
     grid-align: center;
     gap: 20px;
 }
+.card-grid div {
+    border: 1px solid;
+}
 @media (max-width: 600px) {
 
     .logo {
