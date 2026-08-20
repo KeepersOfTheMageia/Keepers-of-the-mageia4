@@ -80,6 +80,10 @@ main {
     padding: 60px 20px;
     text-align: center;
 }
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
 @media (max-width: 600px) {
 
     .logo {
