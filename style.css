@@ -82,7 +82,7 @@ main {
 }
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1fr, 2fr);
     grid-align: center;
 }
 @media (max-width: 600px) {
