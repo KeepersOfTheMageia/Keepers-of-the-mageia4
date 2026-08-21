@@ -89,6 +89,12 @@ main {
 .card-grid div {
     border: 1px solid;
 }
+.card {
+    border: 1px solid;
+    padding: 20px;
+    min-height: 200px;
+    border-radius: 10px;
+}
 @media (max-width: 600px) {
 
     .logo {
