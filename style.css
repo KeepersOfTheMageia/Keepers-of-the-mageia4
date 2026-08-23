@@ -86,9 +86,7 @@ main {
     grid-align: center;
     gap: 20px;
 }
-.card-grid div {
-    border: 1px solid;
-}
+
 .card {
     border: 1px solid;
     padding: 20px;
