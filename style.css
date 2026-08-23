@@ -95,6 +95,10 @@ main {
     min-height: 200px;
     border-radius: 10px;
 }
+.card img {
+    width: 100%;
+    height: auto;
+}
 @media (max-width: 600px) {
 
     .logo {
