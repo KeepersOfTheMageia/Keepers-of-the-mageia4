@@ -84,7 +84,7 @@ main {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-align: center;
-    gap: 10px;
+    gap: 20px;
 }
 
 .card {
@@ -93,6 +93,7 @@ main {
     min-height: 200px;
     border-radius: 10px;
     background-color: black;
+    max-width: 250px;
 }
 .card img {
     width: 200px;
