@@ -84,7 +84,7 @@ main {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-align: center;
-    gap: 20px;
+    gap: 40px;
 }
 
 .card {
