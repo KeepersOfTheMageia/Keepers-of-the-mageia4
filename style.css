@@ -92,6 +92,7 @@ main {
     padding: 5px;
     min-height: 200px;
     border-radius: 10px;
+    background-color: black;
 }
 .card img {
     width: 200px;
