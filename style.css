@@ -89,7 +89,7 @@ main {
 
 .card {
     border: 1px solid;
-    padding: 20px;
+    padding: 5px;
     min-height: 200px;
     border-radius: 10px;
 }
