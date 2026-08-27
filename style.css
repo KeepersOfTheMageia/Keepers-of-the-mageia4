@@ -82,7 +82,7 @@ main {
 }
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(3, 260px);
+    grid-template-columns: repeat(3, 300px);
     grid-align: center;
     gap: 20px;
     justify-content: center;
