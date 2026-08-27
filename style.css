@@ -110,5 +110,8 @@ main {
     .nav-links {
         flex-direction: column;
     }
+    .card-grid {
+        grid-template-columns: 220px;
+    }
 
 }
