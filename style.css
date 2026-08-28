@@ -124,3 +124,7 @@ main {
     justify-content: center;
     align-items: center;
 }
+#large-image {
+    max-width: 80%;
+    max-width: 90%;
+}
