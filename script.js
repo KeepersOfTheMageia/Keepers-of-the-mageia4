@@ -4,7 +4,7 @@ const cardImages = document.querySelectorAll(".card img");
 
 cardImages.forEach(function(image) {
   image.addEventListener("click", function() {
-    largeImage.src = image.src;
+    LargeImage.src = image.src;
     overlay.style.display = "flex";
   });
 });
