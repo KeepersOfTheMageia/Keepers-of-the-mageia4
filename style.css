@@ -126,5 +126,5 @@ main {
 }
 #large-image {
     max-width: 80%;
-    max-width: 90%;
+    max-height: 90%;
 }
