@@ -112,6 +112,15 @@ main {
     gap: 20px;
     justify-content: center;
 }
+.battlefield_zones {
+    border: 1px solid;
+    padding: 5px;
+    min-height: 200px;
+    border-radius: 10px;
+    background-color: black;
+    max-width: 250px;
+}
+
 @media (max-width: 600px) {
 
     .logo {
