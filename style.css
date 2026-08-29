@@ -117,9 +117,8 @@ main {
     padding: 5px;
     min-height: 200px;
     border-radius: 10px;
-    background-color: black;
+    background-color: green;
     max-width: 600px;
-    color: white;
 }
 
 @media (max-width: 600px) {
