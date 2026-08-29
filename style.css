@@ -119,6 +119,7 @@ main {
     border-radius: 10px;
     background-color: green;
     max-width: 600px;
+    grid-align: center;
 }
 
 @media (max-width: 600px) {
