@@ -8,6 +8,10 @@ cardImages.forEach(function(image) {
     overlay.style.display = "flex";
   });
 });
+largeImage.addEventListener("click", function(event) {
+  event.stopPropagation();
+});
+              
 overlay.addEventListener("click", function() {
   overlay.style.display = "none";
 });
