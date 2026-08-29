@@ -1,6 +1,7 @@
 const overlay = document.getElementById("image-overlay");
 const LargeImage = document.getElementById("large-image");
 const cardImages = document.querySelectorAll(".card img");
+const closeButton = document.getElementById("close-button");
 
 cardImages.forEach(function(image) {
   image.addEventListener("click", function() {
@@ -13,5 +14,8 @@ largeImage.addEventListener("click", function(event) {
 });
               
 overlay.addEventListener("click", function() {
+  overlay.style.display = "none";
+});
+closeButton.addEventListener("click", function() {
   overlay.style.display = "none";
 });
