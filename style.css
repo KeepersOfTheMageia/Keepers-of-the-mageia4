@@ -118,7 +118,7 @@ main {
     min-height: 200px;
     border-radius: 10px;
     background-color: black;
-    max-width: 250px;
+    max-width: 600px;
 }
 
 @media (max-width: 600px) {
