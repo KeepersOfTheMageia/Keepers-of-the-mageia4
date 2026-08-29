@@ -98,6 +98,12 @@ main {
 }
 .card img {
     width: 250px;
+    
+}
+.rules {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: left;
 }
 @media (max-width: 600px) {
 
