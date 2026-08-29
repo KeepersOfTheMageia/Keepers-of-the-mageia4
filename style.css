@@ -105,6 +105,13 @@ main {
     margin: 0 auto;
     text-align: left;
 }
+.Battlefeild {
+    display: grid;
+    grid-template-columns: repeat(1, 600px);
+    grid-align: center;
+    gap: 20px;
+    justify-content: center;
+}
 @media (max-width: 600px) {
 
     .logo {
