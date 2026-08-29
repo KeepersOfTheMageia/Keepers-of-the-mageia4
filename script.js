@@ -17,5 +17,6 @@ overlay.addEventListener("click", function() {
   overlay.style.display = "none";
 });
 closeButton.addEventListener("click", function() {
+  event.stopPropagation();
   overlay.style.display = "none";
 });
