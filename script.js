@@ -9,7 +9,7 @@ cardImages.forEach(function(image) {
     overlay.style.display = "flex";
   });
 });
-largeImage.addEventListener("click", function(event) {
+LargeImage.addEventListener("click", function(event) {
   event.stopPropagation();
 });
               
