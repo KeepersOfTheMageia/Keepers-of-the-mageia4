@@ -128,3 +128,13 @@ main {
     max-width: 80%;
     max-height: 90%;
 }
+#close-button {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 40px;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
