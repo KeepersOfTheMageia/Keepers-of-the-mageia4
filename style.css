@@ -119,6 +119,7 @@ main {
     border-radius: 10px;
     background-color: black;
     max-width: 600px;
+    text-color: white;
 }
 
 @media (max-width: 600px) {
